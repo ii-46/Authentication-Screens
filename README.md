@@ -1,16 +1,10 @@
-# lab_flutter_login2
+## Welcome, Register and Login Screens in Flutter
 
-A new Flutter project.
+### welcome screen
+![image](https://github.com/ii-46/Authentication-Screens/assets/59490152/7e72291d-8215-4089-b4dc-c48819ce3f3c)
 
-## Getting Started
+### Register screen
+![image](https://github.com/ii-46/Authentication-Screens/assets/59490152/3204ed12-6780-4985-836b-2cd7734eacf3)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Login screen
+![image](https://github.com/ii-46/Authentication-Screens/assets/59490152/a82868fb-0823-4b4f-9171-77743792a198)
