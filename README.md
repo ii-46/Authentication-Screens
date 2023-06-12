@@ -1,10 +1,13 @@
 ## Welcome, Register and Login Screens in Flutter
 
 ### welcome screen
-![image](https://github.com/ii-46/Authentication-Screens/assets/59490152/7e72291d-8215-4089-b4dc-c48819ce3f3c)
+![image](https://github.com/ii-46/Authentication-Screens/assets/59490152/606f6a73-dcb8-45c9-9c64-2da8336ed452)
+
 
 ### Register screen
-![image](https://github.com/ii-46/Authentication-Screens/assets/59490152/3204ed12-6780-4985-836b-2cd7734eacf3)
+![image](https://github.com/ii-46/Authentication-Screens/assets/59490152/5a1b29af-0b69-4f77-a713-8bf5736b6e61)
+
+
 
 ### Login screen
-![image](https://github.com/ii-46/Authentication-Screens/assets/59490152/a82868fb-0823-4b4f-9171-77743792a198)
+![image](https://github.com/ii-46/Authentication-Screens/assets/59490152/d06e709d-813e-4929-ba2e-799dff5a6500)
