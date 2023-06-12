@@ -5,8 +5,7 @@
 
 
 ### Register screen
-![image](https://github.com/ii-46/Authentication-Screens/assets/59490152/5a1b29af-0b69-4f77-a713-8bf5736b6e61)
-
+![image](https://github.com/ii-46/Authentication-Screens/assets/59490152/114fc1d0-cb7d-444b-b06a-aee9141ba83e)
 
 
 ### Login screen
